@@ -12,9 +12,14 @@ A Simple **CRUD API** with **User Authentication** and **SendGrids Email API int
 
 * **Node.js** with **express** to create backend.
 * **MongoDb** with **mongoose** to create Schema and database.
-* **JSON web token** as MidleWare Authentication.
+* **JSON web token** as MiddleWare Authentication.
 * **Bcrypt** for password Hashing.
 * **SendGrids** Email API, for Email services.
 * Production Database on **MongoDb Atlas**.
 * Production hosting on **Heroku**.
+
+### Additional Tools Used
+
+* Postman - Workflow Testing
+* Robo3t - For Data Visualization 
 
